@@ -8,7 +8,8 @@ Kelas : TI. 19. B1
 
 # Koneksi PHP
 
-![image](https://user-images.githubusercontent.com/82002182/124504018-d75cba00-ddf0-11eb-815d-7e5568c7c5b6.png)
+![image](https://user-images.githubusercontent.com/82002182/124504072-efccd480-ddf0-11eb-83ac-85b8d7ab846e.png)
+
 
 http://localhost/barbershop/barbershop.php
 
